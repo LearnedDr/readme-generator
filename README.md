@@ -1,17 +1,17 @@
 # super niceness
   
  ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
-
     ## Description
     it's awesome
-
     ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
     * [Contribution](#contribution)
     * [Test](#test)
-
-    ## renderthelinkhere
+    
+ * [License](#license)
+    
+    
     
     ## Installation
     come on bro
@@ -20,9 +20,12 @@
     click buttons
 
     ## Contribution
-    $$$$$
+    $$$$
 
-    ##Test
+    ## Test
     bet me
 
-    ## rendersectionhere
+    
+ ## License
+    This projecet is under the MIT license
+    
