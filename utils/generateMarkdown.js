@@ -23,7 +23,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "None") {
     return `\n## License
-    This project is under the ${license} license
+This project is under the ${license} license
     `
   };
   return "";
