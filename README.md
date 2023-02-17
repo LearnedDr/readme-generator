@@ -1,8 +1,8 @@
-# Super Awesomeness
+# Awesome Note Taker
 
- ![github license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
+ ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-It's super awesome
+Only adds notes, doesn't delete.  Sorry.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,25 +14,23 @@ It's super awesome
     
 
 ## Installation
-come on, bro
+Ran via Heroku
 
 ## Usage
-Click buttons
+Makes notes
 
 ## Contribution
-Spread the good news
+Spread the good word
 
 ## Test
-Negative
+No
 
 ## Contact
   -creator's github: [LearnedDr](https://github.comLearnedDr)
 
-  -email: [Fredrickj.chang@gmail.com](mailto:Fredrickj.chang@gmail.com)
+  -email: [fredrickj.chang@gmail.com](mailto:fredrickj.chang@gmail.com)
 
 
 ## License
-This project is under the APACHE2.0 license
-
-## Video
-[Link to my example video](https://drive.google.com/file/d/1wjWWaJXgmQTsNOwj_1Qg0fRRPfBspFaz/view)
+This project is under the MIT license
+    
